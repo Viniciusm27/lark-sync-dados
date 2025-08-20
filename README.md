@@ -22,4 +22,4 @@ Campos:
 
 ## Observações
 - Use **ponto** como separador decimal (`29.90`), para evitar conflito com a vírgula do CSV.
-- Atualize este arquivo sempre que alterar o esquema.
+- Atualize este arquivo sempre que alterar o esquema..
