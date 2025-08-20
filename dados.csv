@@ -1,0 +1,4 @@
+id,sku,produto,categoria,quantidade,preco,moeda,status,updated_at,link,tags
+1,LE-010,Suporte de Retrovisor p/ Celular,Suportes,50,29.9,BRL,ativo,2025-08-19T16:00:00-03:00,https://example.com/produtos/le-010,retrovisor;celular;ajustavel
+2,SC-B21,Câmera Wi‑Fi SC‑B21,Câmeras,30,119.9,BRL,ativo,2025-08-19T16:00:00-03:00,https://example.com/produtos/sc-b21,wifi;seguranca;fullhd
+3,SC-B12,Câmera Wi‑Fi SC‑B12,Câmeras,12,99.9,BRL,inativo,2025-08-19T16:00:00-03:00,https://example.com/produtos/sc-b12,wifi;hd
