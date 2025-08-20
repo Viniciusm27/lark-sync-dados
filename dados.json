@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "sku": "LE-010",
+    "produto": "Suporte de Retrovisor p/ Celular",
+    "categoria": "Suportes",
+    "quantidade": 50,
+    "preco": 29.9,
+    "moeda": "BRL",
+    "status": "ativo",
+    "updated_at": "2025-08-19T16:00:00-03:00",
+    "link": "https://example.com/produtos/le-010",
+    "tags": "retrovisor;celular;ajustavel"
+  },
+  {
+    "id": 2,
+    "sku": "SC-B21",
+    "produto": "Câmera Wi‑Fi SC‑B21",
+    "categoria": "Câmeras",
+    "quantidade": 30,
+    "preco": 119.9,
+    "moeda": "BRL",
+    "status": "ativo",
+    "updated_at": "2025-08-19T16:00:00-03:00",
+    "link": "https://example.com/produtos/sc-b21",
+    "tags": "wifi;seguranca;fullhd"
+  },
+  {
+    "id": 3,
+    "sku": "SC-B12",
+    "produto": "Câmera Wi‑Fi SC‑B12",
+    "categoria": "Câmeras",
+    "quantidade": 12,
+    "preco": 99.9,
+    "moeda": "BRL",
+    "status": "inativo",
+    "updated_at": "2025-08-19T16:00:00-03:00",
+    "link": "https://example.com/produtos/sc-b12",
+    "tags": "wifi;hd"
+  }
+]
